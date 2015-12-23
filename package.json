@@ -1,0 +1,24 @@
+{
+  "name": "fibjs-fibx-static",
+  "version": "0.1.0",
+  "description": "fibx static service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibx/fibx-static.git"
+  },
+  "keywords": [
+    "fibx",
+    "static",
+    "middleware"
+  ],
+  "author": "Rube",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fibx/fibx-static/issues"
+  },
+  "homepage": "https://github.com/fibx/fibx-static#readme"
+}
